@@ -1,4 +1,4 @@
-package Test;
+package graph;
 
 import java.util.stream.Collectors;
 

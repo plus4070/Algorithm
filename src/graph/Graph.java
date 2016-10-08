@@ -1,4 +1,4 @@
-package Test;
+package graph;
 
 import java.util.ArrayList;
 import java.util.List;

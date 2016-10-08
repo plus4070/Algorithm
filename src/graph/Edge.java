@@ -1,4 +1,4 @@
-package Test;
+package graph;
 
 public class Edge {
 	int weight;
